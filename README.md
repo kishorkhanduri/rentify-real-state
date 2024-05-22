@@ -161,5 +161,6 @@
 ## Deployment
 
 - **Backend**: Deployed on Render platform. Render provides a simple and scalable way to deploy backend services.
-- **Frontend**: Deployed on Vercel. Vercel offers a fast and reliable hosting service for frontend applications.
+- **Frontend**: Deployed on Render platform. Render offers a fast and reliable hosting service for frontend applications.
 - **Database**: MongoDB cluster used for data storage, providing a scalable and secure database solution.
+
